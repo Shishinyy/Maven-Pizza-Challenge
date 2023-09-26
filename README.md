@@ -10,7 +10,7 @@ The Maven Pizza Challenge is a data analysis challenge from Maven Analytics that
 
 The SQL code for this project can be found in the [SQL](https://github.com/Shishinyy/Maven-Pizza-Challenge/blob/e93a1b967ec13576587332095634519eda6cca32/Maven_pizza_challenge.sql) directory. It includes the following files:
 
-- `maven_pizza_challenge.sql`: This SQL script contains queries and code used to analyze the Maven Pizza Challenge dataset.
+- `maven_pizza_challenge.sql`: This SQL script contains queries and code used to analyze the Maven Pizza Challenge dataset using RDBMS : PostgreSQL
 
 ## Tableau Visualization
 
